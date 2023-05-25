@@ -6,8 +6,6 @@ const Header = () => {
         <div className='main-header'>
             <div className="header text">
                 <p className='slogan'>Transforming Ideas into Digital Success.
-                    {/* "Empowering Your Online Presence, Seamlessly."
-                    "Crafting Your Digital Vision with Excellence." */}
                 </p>
                 <p className='sub-heading'>Empowering business with innovative digital solutions for success.
                 </p>
