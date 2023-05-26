@@ -1,0 +1,49 @@
+/* phone responsive css */
+
+@media screen and (max-width:768px) {
+    .main-header{
+        display: block;
+        /* justify-content: space-between; */
+        margin-top: 15px;
+        margin: 0px 25px; 
+        /* padding-bottom: 115px; */
+    } 
+    .header-text{
+        width: 100%;
+        text-align: center;
+    }
+    .slogan{
+        font-size: 28px;
+        font-family: 'Nunito', sans-serif;
+        font-weight: 800;
+        margin-top: 55px;
+        text-align: center;
+    }
+    .sub-heading{
+        font-size: 24px;
+        font-family: 'Nunito', sans-serif;
+        margin-top: 15px;
+        color: #444444;
+        text-align: center;
+    }
+    .header-img img{
+        padding-top: 15px;
+        width: 325px;
+        align-items: center;
+
+    }
+
+    .btn{
+        background-color: #2d4048;
+        border-radius: 7px;
+        cursor: pointer;
+        padding: 10px 20px;
+        color: #ffffff;
+        /* margin-top: 25px; */
+        font-size: 16px;
+        font-family: 'Nunito', sans-serif;
+        font-weight: 700;
+        border: none;
+        text-align: center;
+    }
+}

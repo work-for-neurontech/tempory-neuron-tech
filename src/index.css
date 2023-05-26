@@ -8,10 +8,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  margin: 0px 8rem; 
+  /* margin: 0px 8rem;  */
   font-family: 'Nunito', sans-serif;
   background-color: #fff;
-  background-image: url(./assets/images/Company\ Brand\ Book.png);
+  /* background-image: url(./assets/images/Company\ Brand\ Book.png); */
 }
 
 

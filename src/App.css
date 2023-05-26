@@ -1,0 +1,5 @@
+.home-section{
+  background-image: url(./assets/images/Company\ Brand\ Book.png);
+  object-fit: cover;
+  overflow: hidden;
+}

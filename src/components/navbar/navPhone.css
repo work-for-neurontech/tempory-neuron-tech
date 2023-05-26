@@ -1,0 +1,34 @@
+/* phone responsive css */
+@media screen and (max-width:768px) {
+    .navbar{
+        top: 0;
+        display: block;
+        padding:0 20px;
+    }
+    .brand-logo{
+    /* margin-top: 20px; */
+    display: flex;
+    text-align: center;
+    }
+    .brand-logo img{
+    width: 40px;
+    height: 40px;
+    }
+
+    .list{
+    display: block;
+    /* background-color: ; */
+    }
+    .list-item{
+   margin: 0px 0 0 0;
+   font-family: 'Nunito', sans-serif;
+   font-size: 16px;
+   font-weight: 700;
+   /* margin-top: 29px; */
+   padding-bottom: 10px;
+}
+.menu-icon{
+    display: block;
+    margin-left: 120px;
+}
+}
