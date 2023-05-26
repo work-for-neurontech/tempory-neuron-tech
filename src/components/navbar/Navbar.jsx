@@ -5,7 +5,7 @@ import Logo from "../../assets/images/logo2.png"
 const Navbar = () => {
 
 
-    const [isMenuOpen, setIsMenuOpen] = useState(true);
+    const [isMenuOpen, setIsMenuOpen] = useState(false);
 
     const handleMenuClick = () => {
         setIsMenuOpen(!isMenuOpen);
