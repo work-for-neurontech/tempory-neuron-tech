@@ -11,6 +11,7 @@ body {
   /* margin: 0px 8rem;  */
   font-family: 'Nunito', sans-serif;
   background-color: #fff;
+  overflow-x: hidden;
   /* background-image: url(./assets/images/Company\ Brand\ Book.png); */
 }
 
