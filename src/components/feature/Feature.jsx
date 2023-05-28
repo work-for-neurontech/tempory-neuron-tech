@@ -2,9 +2,9 @@ import React from 'react'
 import "./feature.css"
 import "./featurePhone.css"
 import Fimg from "../../assets/images/featureimg.png"
-const Feature = () => {
+const Feature = ({ id }) => {
     return (
-        <div className='feature '>
+        <div className='feature' id={id}>
             <p className='feature-text-head'>Here's why you should work with us</p>
             <div className="feature-content">
                 <div className="feature-img">

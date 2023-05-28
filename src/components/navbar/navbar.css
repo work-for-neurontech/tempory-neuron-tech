@@ -5,6 +5,7 @@
     z-index: 999;
   position: relative;
   padding:0 120px;
+  cursor: pointer;
   /* transition: 0.7s ;
   transition-delay: 0.2s; */
 }

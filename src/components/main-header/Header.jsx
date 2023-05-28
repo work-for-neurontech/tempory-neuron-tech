@@ -2,9 +2,9 @@ import React from 'react'
 import "./header.css"
 import "./headerPhone.css"
 import Headerimg from "../../assets/images/header3.png"
-const Header = () => {
+const Header = ({ id }) => {
     return (
-        <div className='main-header'>
+        <div className='main-header' id={id}>
             <div className="header-text">
                 <p className='slogan'>Transforming Ideas into Digital Success.
                 </p>

@@ -1,8 +1,8 @@
 import React from 'react'
 import "./contact.css"
-const Contacts = () => {
+const Contacts = ({ id }) => {
     return (
-        <div className='contact'>
+        <div className='contact' id={id}>
             <h2 className='heading mt'>CONTACT</h2>
             <p className='service-para'>Contact us</p>
             <div className="contact-info">

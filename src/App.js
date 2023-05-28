@@ -12,13 +12,13 @@ function App() {
     <>
       <div className="home-section">
         <Navbar />
-        <Header />
+        <Header id="header" />
       </div>
-      <Services />
+      <Services id="service-part" />
       <Gettouch />
-      <Feature />
-      <Process />
-      <Contacts />
+      <Feature id="section" />
+      <Process id="process-part" />
+      <Contacts id="contact-part" />
       <Footer />
     </>
   );

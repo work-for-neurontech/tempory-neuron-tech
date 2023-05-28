@@ -5,9 +5,9 @@ import Img1 from "../../assets/images/p1.png"
 import Img2 from "../../assets/images/p2.png"
 import Img3 from "../../assets/images/p3.png"
 import Img4 from "../../assets/images/p4.png"
-const Process = () => {
+const Process = ({ id }) => {
     return (
-        <div className='process'>
+        <div className='process' id={id}>
             <p className='service-text'>Process</p>
             <div className="images">
                 <div className="image">
