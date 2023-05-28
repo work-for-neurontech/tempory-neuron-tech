@@ -14,7 +14,7 @@
     font-family: 'Nunito', sans-serif;
     font-weight: 800;
     margin-top: 100px;
-    text-align: center;
+    /* text-align: center; */
 }
 .sub-heading{
     font-size: 26px;
@@ -22,11 +22,12 @@
     margin-top: 15px;
     color: #444444;
 }
-.header-img{
+/* .header-img{
     width: 50vw;
-}
+} */
 .header-img img{
-    width: 550px;
+    width: 570px;
+    margin-left: 30px;
 }
 .btn{
     background-color: #2d4048;

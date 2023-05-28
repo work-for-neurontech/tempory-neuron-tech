@@ -1,9 +1,15 @@
 .process{
     /* margin-top: 5rem; */
-    margin: 4rem 6rem 0 6rem;
+    margin: 4rem 6rem 4rem 6rem;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
 }
 .images{
     display: flex;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
 }
 .out-para{
         font-size: 15px;
